@@ -2,7 +2,7 @@ import sgame from './sgame.js';
 
 sgame.init('canvas');
 
-const spriteImgSrc = 'https://i.imgur.com/NRlRkA6.png';
+const spriteImgSrc = 'sprite.png';
 const spriteWidth = 50;
 const spriteHeight = 50;
 
